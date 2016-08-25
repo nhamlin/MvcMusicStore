@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMusicStore", "MvcMusicStore\MvcMusicStore.csproj", "{CC7182EC-BD23-45C3-9553-13C8E4BD4EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMusicStore.Tests", "MvcMusicStore.Tests\MvcMusicStore.Tests.csproj", "{C38E7770-7523-485B-A8FE-EA0D6CF53B74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7182EC-BD23-45C3-9553-13C8E4BD4EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7182EC-BD23-45C3-9553-13C8E4BD4EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7182EC-BD23-45C3-9553-13C8E4BD4EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7182EC-BD23-45C3-9553-13C8E4BD4EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38E7770-7523-485B-A8FE-EA0D6CF53B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38E7770-7523-485B-A8FE-EA0D6CF53B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38E7770-7523-485B-A8FE-EA0D6CF53B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38E7770-7523-485B-A8FE-EA0D6CF53B74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
